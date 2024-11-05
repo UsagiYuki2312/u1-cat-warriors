@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Boss_Godzilla_Controller_2
+  m_Controller: {fileID: 9100000, guid: 178c2463b822f8a499ddf40370ae36c8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3929f1a1272846047998f7e00a1ed741, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7c32b3cc8beb6b408a68d179eaa736a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a523402adc877db4fb41e2fbc80f48d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0da502df5ca8e634d92cb0169a1b46e3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 26dcfa4585f96da498e6d92d3712530c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 36ef522bde6cdb243a325734136ca18a, type: 2}

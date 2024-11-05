@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TommyGun_Controller
+  m_Controller: {fileID: 9100000, guid: 178c2463b822f8a499ddf40370ae36c8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3929f1a1272846047998f7e00a1ed741, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3eb5288dcc412ef40a517a410164dd38, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a523402adc877db4fb41e2fbc80f48d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9d334ad11a23d054280dbd716f14a35f, type: 2}
